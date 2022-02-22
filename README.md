@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/ZA54fr0.jpeg" alt="jpeg" width="200" height="200"/>
 </p>
  <p align="center">
-<a href="#"><img title="»»»ultron«««" src="https://github.com/Ashikbot/PrinceRudh/edit/main/README.md"></a>
+<a href="#"><img title="»»»ultron«««" src="https://github.com/Ashikbot/edit/main/README.md"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Ashikbot/PrinceRudh/edit/main/README.md"><img title="👾Author👾" src="https://github.com/Ashikbot/PrinceRudh/edit/main/README.md"></a>
