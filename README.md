@@ -14,7 +14,8 @@
 ---
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github.com/Ashikbot/PrinceRudh/edit/main/README.md" alt="PrinceRudh" /></p>
+<p>&nbsp;<img align="center" src="https://github.com/Ashikbot/PrinceRudh/edit/main/README.md" alt="ultron"
+ /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceRudh&theme=tokyonight" alt="ultron" /></p>
 </p>
